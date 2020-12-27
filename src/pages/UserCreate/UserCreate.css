@@ -1,0 +1,25 @@
+.form-userCreate {
+    padding: 10px 20px 0px 20px;
+}
+
+.button-submit-UserCreate{
+    margin: 0 15px 0 0;
+    border: 1px solid transparent;
+    padding: .378rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    background-color: dodgerblue;
+    color: white;
+    outline: none;
+}
+
+a {
+    text-decoration-style: none;
+    color: white;
+}
+a:hover {
+    text-decoration-style: none;
+    text-decoration-line: none;
+    color: white;
+}
