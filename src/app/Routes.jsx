@@ -2,9 +2,9 @@ import React from 'react'
 import {Route, Redirect, Switch} from 'react-router'
 import {BrowserRouter} from 'react-router-dom'
 
-import UserView from '../pages/UserView/UserView'
-import UserUpdate from '../pages/UserUpdate/UserUpdate'
-import UserCreate from '../pages/UserCreate/UserCreate'
+import UserView from '../pages/UserView/userview'
+import UserUpdate from '../pages/UserUpdate/userupdate'
+import UserCreate from '../pages/UserCreate/usercreate'
 
 function Routes(){
     return (

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './UserView.css'
+import './userview.css'
 
 import Header from '../../components/Header/Header'
 // components Bootstrap

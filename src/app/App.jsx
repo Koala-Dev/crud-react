@@ -1,9 +1,9 @@
 import React from 'react'
-import './App.css'
+import './app.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 
-import Routes from './Routes'
+import Routes from './routes'
 
 const App = (props) => {
     return (

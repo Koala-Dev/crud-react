@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import './UserCreate.css'
-import Header from '../../components/Header/Header'
+import './usercreate.css'
+import Header from '../../components/Header/header'
 
 import Form from 'react-bootstrap/Form'
 import Button from 'react-bootstrap/Button'
